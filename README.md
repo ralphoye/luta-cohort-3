@@ -1,2 +1,2 @@
 # luta-cohort-3
-LuTA Cohort 3.0. training on Introduction to Front End Development
+This repository is for LuTA Cohort 3.0. training on Front End Development (Introduction)
