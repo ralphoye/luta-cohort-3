@@ -27,10 +27,12 @@ nav {
     top: 0px
 }
 
+
 .logo {
 height: auto;
 width: 80px;
 }
+
 
 nav .wraper {
     display: flex;
@@ -39,6 +41,7 @@ nav .wraper {
     align-items: center;
     padding: 15px 0px;
 }
+
 
 .wraper ul {
     display: flex;
@@ -215,8 +218,6 @@ a:hover, a:focus {
     text-decoration: none;
 }
 
-
-
 footer {
     margin-top: 50px;
     background-color: #1f2937;
@@ -234,4 +235,3 @@ footer p {
     color:#e5e7eb;
     font-weight: bold;
 }
-
