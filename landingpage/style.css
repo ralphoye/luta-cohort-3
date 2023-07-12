@@ -1,12 +1,12 @@
 * {
     margin: 0px;
     padding: 0px;
-    background-color rgb(255,255,255);
     box-sizing: border-box;
 }
 
 body {
     box-sizing: border-box;
+    background-color: #FFFFFF;
     padding: 0;
     font-family: Arial, Helvetica, sans-serif
 }
@@ -76,7 +76,7 @@ a:hover, a:focus {
     width: 500px; 
     height: 200px; 
     object-fit:fill;
-    object-position: 
+    object-position:center;
 }
 
 .welcome h1 {
