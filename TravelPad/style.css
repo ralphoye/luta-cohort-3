@@ -1,8 +1,12 @@
+body {
+    margin: 50px;
+}
 h1 {
     color:rgb(4, 4, 170);
     
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-size: 80px;
+    margin: 0px;
 }
 
 p {
@@ -10,19 +14,82 @@ p {
     font-size: 25px;
     text-align: justify;
 }
+
 .btn {
+    width: max-content;
+    max-height: fit-content;
+    border: 3px solid #3a0303;
     border-radius: 22px;
-    background-color: black;
+    margin: 20px;
+    background-color: rgb(192, 7, 7);
     color: azure;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    font-size: 45;
-    padding: 10px;
+    font-size: 25px;
+    padding: 5px;
     box-sizing: content-box
 }
 
 #ksa {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    font-size: 15px;
-  
-
+    font-size: 15px;  
 }
+
+li {
+    display: inline-block;
+    background-color: #3a0303;
+    color: white;
+    font-size: 15px;    
+    padding: 10px;
+    border-radius: 8px;        
+}
+
+.topmenu a {
+    display: inline-block;
+    background-color: #3a0303;
+    color: white;
+    font-size: 15px;    
+    padding: 10px;
+    border-radius: 8px;    
+}
+    
+.topmenu a:hover {
+    color:#ecf015;
+    text-decoration : none;
+    }
+    
+.topmenu a:visited {
+        color:#474743;
+       text-decoration : none;     
+    } 
+
+
+
+.topnav {
+  overflow: hidden;
+  background-color: #333;
+}
+
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  border-radius: 6px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.topnav a.active {
+  background-color: #04AA6D;
+  color: white;
+}
+
+.topnav a:visited {
+    color:#474743;
+   text-decoration : none;     
+} 
