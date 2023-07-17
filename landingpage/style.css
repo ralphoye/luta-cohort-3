@@ -28,7 +28,7 @@ nav {
     background-color: #1F2937;
     width: 100%;
     position: fixed;
-    padding:0px 70px 0px 70px;
+    padding:0px 150px 0px 150px;
     overflow: hidden;  
 }
 
@@ -73,7 +73,7 @@ nav .menu {
     justify-content: space-between;
     align-items: center;
     gap:20px;
-    padding: 70px;
+    padding: 100px 150px 80px 150px;
 }
 
 #htext {
@@ -186,7 +186,7 @@ nav .menu {
     margin-top: 50px;
     text-align: justify;
     font-size: 36px;
-    padding: 80px;
+    padding: 150px;
     color:#1f2937;
     font-style: italic;
 }
