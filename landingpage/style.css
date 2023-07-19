@@ -66,6 +66,19 @@ nav .menu {
 }
 
 /* hero section */
+/* .hero {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    gap:20px;
+    padding: 100px 150px 80px 150px;
+}
+
+.hero >* {
+    flex: 1;
+} */
+
 .hero {
     display:inline-block;
     display: flex;
@@ -84,7 +97,7 @@ nav .menu {
 .hero img {
     align-items: center;
     width: 400px; 
-    height: 250px;
+    height: auto;
     border-radius: 20px; 
     object-fit:fill;
     object-position:center;
@@ -132,31 +145,17 @@ nav .menu {
     justify-content: space-between
   }
   
-  .box1 {
+  .container> * {
+    flex: 1;
+  }
+  /* .box1, .box2, .box3, .box4 {
     min-width: 190px;
     flex-grow: 2;
     flex-shrink: 0;
     width:190px;
-  }
+  } */
   
-  .box2 {
-    min-width: 190px;
-    flex-grow: 2;
-    width:190px;
-  }
   
-  .box3 {
-    min-width: 190px;
-    flex-grow: 2;
-    flex-shrink: 0;
-    width:190px;
-  }
-  
-  .box4 {
-    min-width: 190px;
-    flex-grow: 2;
-    width:190px;
-  }
 
 #boxes {margin-top: 50px;
 }
