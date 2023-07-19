@@ -1,2 +1,4 @@
 This is my project as a Front-End Web Development student at LuTaHQ,
-It was required of me to create a landing page for desktop size devices, but I added mobile version with my responsive design experience and it is also mobile friendly
+
+PROJECT:
+It was required of me to create a landing page with menus, links, columns, images and testimony.
