@@ -34,8 +34,6 @@ Users should be able to:
 
 Screenshot of the desktop and mobile versions added with active state as well.
 
-**Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
-
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
@@ -47,9 +45,6 @@ Screenshot of the desktop and mobile versions added with active state as well.
 - Semantic HTML5 markup
 - CSS custom properties
 - CSS Grid
-
-
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
 
 ### What I learned
 
