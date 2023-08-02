@@ -20,5 +20,5 @@ Screenshot of the desktop and mobile versions added with active state as well.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/ralphoye/luta-cohort-3/blob/main/FEM%20Result%20Summary/index.html)
-- Live Site URL: [Add live site URL here](https://raw.githack.com/ralphoye/luta-cohort-3/main/FEM%20Result%20Summary/index.html)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H)
+- Live Site URL: [Add live site URL here](https://vercel.com/new/success?developer-id=&external-id=&redirect-url=&branch=main&deploymentUrl=fem-qr-code-challenge-1sopu5ijs-ralphoye.vercel.app&projectName=fem-qr-code-challenge&s=https%3A%2F%2Fgithub.com%2Fralphoye%2Fluta-cohort-3&gitOrgLimit=&hasTrialAvailable=1&totalProjects=1)
