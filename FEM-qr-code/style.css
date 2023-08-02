@@ -1,0 +1,79 @@
+ 
+* {
+      margin:0;
+      padding:0;
+      box-sizing: border-box;
+      }
+
+body {
+    min-height: 100vh;
+    display:grid;
+    place-items: center;
+    text-align:center;
+    font-family: var(--font-family-default);
+    font-size:var(--fs-400);
+    color: var(--clr-Grayish-blue);
+    background: var(--clr-Light-gray);
+    
+}
+
+:root {
+/* ## Colors */
+    --clr-White: hsl(0, 0%, 100%);
+    --clr-Light-gray: hsl(212, 45%, 89%);
+    --clr-Grayish-blue: hsl(220, 15%, 55%);
+    --clr-Dark-blue: hsl(218, 44%, 22%);
+
+
+/* ### Font */
+    --font-family-default:'Hanken Grotesk', sans-serif;
+    --font-family-2:'Outfit', sans-serif;
+    --fw-regular: 500;
+    --fw-bold: 700;
+    --fw-xxbold: 800;
+
+    --fs-400: 1.125rem;
+    --fs-500: 1.25rem;
+    --fs-600: 1.5rem;
+    --fs-700: 1.75rem;
+    --fs-800: 2rem;
+    --fs-900: 5rem;
+    
+/* Border Radius and Padding */
+    --border-radius:1rem;
+    --paddingXXX:1.5rem;
+    --paddingXLR:0 1.5rem 1.5rem 1.5rem;
+    --paddingXX:1rem;
+    --paddingX:0.5rem;
+}    
+
+
+.grid {
+    background:var(--clr-White);
+    max-width: 375px;
+    border-radius:var(--border-radius);
+    box-shadow:.5rem .75rem 1rem var(--clr-Grayish-blue);
+    display:grid;
+    margin:0;
+}
+
+.wrapper {
+    line-height:1;
+    padding:var(--paddingXLR)
+}
+
+.description h2 {
+    margin-top:1.5rem;
+    font-size:var(--fs-600);
+    color:var(--clr-Dark-blue);
+    font-weight:var(--fw-bold);
+    font-family:Outfit;  
+}
+
+img {
+    margin-top:1rem;
+    height:345px;
+    width:345px;
+    align-items:center;
+    border-radius:var(--border-radius);
+}
